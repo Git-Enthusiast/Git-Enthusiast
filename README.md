@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on frontend projects and contribute to exciting ventures that align with my interests and skills.
 
-📫 How to reach me: Feel free to connect with me on GitHub (Git-Enthusiast) or via email: rajan.software.developer@gmail.com . Let's discuss opportunities and ideas!
+📫 How to reach me: Feel free to connect with me on GitHub (Git-Enthusiast) or via email: rajanraj.cse@gmail.com . Let's discuss opportunities and ideas!
 
 😄 Pronouns: He/Him
 
