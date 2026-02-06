@@ -1,58 +1,116 @@
-# 👋 Hi, I’m @Git-Enthusiast!
+# Rajan Raj | Aspiring Data Engineer | Python • SQL • ETL • DSA (Java)
 
-### 🚀 About Me
+## 👋 About Me
+I am an **aspiring Data Engineer** with a Computer Science background, currently focused on **designing, building, and understanding data pipelines and data platforms**.
 
-👀 **Passionate about:**  
-- **Data Analytics & Data Engineering with Python**  
-- **Data Structures and Algorithms (DSA) in Java**  
-- **Exploring insights from data and building efficient data workflows**
+My learning journey is centered on **ETL/ELT workflows, data ingestion, transformation, storage, and analytics-ready datasets**, supported by **strong problem-solving skills through DSA in Java**.
 
-🌱 **Currently focusing on:**  
-- **Python & Data Analytics**: Learning data processing, analysis, and visualization using Python libraries and tools.  
-- **Data Engineering**: Building ETL pipelines, handling large datasets, and working with databases for efficient data workflows.  
-- **DSA in Java**: Practicing algorithms and competitive programming to strengthen problem-solving skills.
-
-💼 **Looking for:**  
-- **Roles or Projects** in **Data Analytics, Data Engineering, or Python Development**  
-- **Collaborative Projects** to learn, grow, and contribute to open-source communities.
+I am actively preparing for **entry-level Data Engineering roles** and looking for opportunities where I can work with **real-world data systems, large datasets, and scalable architectures**.
 
 ---
 
-### 🛠️ Skills & Technologies
-
-**Programming Languages**  
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%230075B6.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-
-**Data Analytics & Engineering Tools**  
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-%231D6F42.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-%230E97D1.svg?style=for-the-badge&logo=tableau&logoColor=white)  
-
-**Frontend / Other Tools**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-
-**Version Control & IDEs**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)  
+## 🎯 Career Objective (Data Engineering Focus)
+To secure an **entry-level Data Engineer / Data Engineering Trainee role** where I can apply and grow skills in **Python, SQL, data pipelines, ETL tools, databases, and cloud-based data systems**, while contributing to reliable and scalable data solutions.
 
 ---
 
-### 📫 How to Reach Me
+## 🧠 Core Data Engineering Competencies
 
-- **GitHub**: [@Git-Enthusiast](https://github.com/Git-Enthusiast)  
-- **Email**: [rajanraj.cse@gmail.com](mailto:rajanraj.cse@gmail.com)  
-- **LeetCode**: [Profile](https://leetcode.com/u/Rajan_cse/)
+- Data Engineering Fundamentals  
+- ETL / ELT Pipelines  
+- Data Ingestion & Data Extraction  
+- Batch Data Processing  
+- Data Transformation & Validation  
+- Data Warehousing Concepts  
+- SQL Optimization & Query Design  
+- Data Modeling (Star Schema, Snowflake Schema)  
+- Structured & Semi-Structured Data  
+- Data Quality & Data Consistency  
+- Pipeline Monitoring & Logging  
+- Data Analytics Enablement  
 
 ---
 
-### 😄 Fun Fact
+## 🛠️ Technical Skills
 
-I enjoy exploring data to find insights, building data pipelines, and solving challenging DSA problems in Java to sharpen my algorithmic thinking. ☕💻
+### Programming & Query Languages
+- **Python** – Data processing, ETL scripting, automation  
+- **SQL** – Complex queries, joins, aggregations, window functions  
+- **Java** – DSA, algorithmic problem solving (backend readiness)
+
+---
+
+### Data Engineering Stack (Learning & Hands-On)
+- **ETL Development**: Python-based ETL scripts  
+- **Data Processing**: Pandas, NumPy  
+- **Databases**: MySQL, PostgreSQL (conceptual + hands-on)  
+- **Data Warehousing**: OLTP vs OLAP concepts  
+- **File Formats**: CSV, JSON, Parquet (conceptual understanding)  
+- **Data Modeling**: Normalization, fact & dimension tables  
+
+---
+
+### Big Data & Distributed Systems (Foundational Learning)
+- Apache Spark (concepts: RDD, DataFrame, transformations, actions)  
+- Batch vs Stream Processing  
+- Data partitioning & parallelism (conceptual)
+
+---
+
+### Orchestration & Workflow Management (Learning)
+- ETL workflow structuring  
+- DAG-based pipeline concepts (Airflow fundamentals)  
+- Scheduling, retries, and failure handling (conceptual)
+
+---
+
+### Cloud & Modern Data Stack (Conceptual Readiness)
+- Cloud data architecture fundamentals  
+- Data lakes vs data warehouses  
+- Basics of AWS / GCP data services (high-level understanding)
+
+---
+
+### DSA & Problem Solving (Strong Foundation)
+- Arrays, Strings, Linked Lists  
+- Stacks, Queues, HashMaps  
+- Trees, Graphs  
+- Recursion & Dynamic Programming  
+- LeetCode practice using **Java** (100+ problems)
+
+---
+
+### Tools & Development Environment
+- Git & GitHub (version control)  
+- Jupyter Notebook  
+- VS Code  
+- IntelliJ IDEA  
+
+---
+
+## 📚 Practical Learning & Implementation
+
+- Building **end-to-end ETL pipelines** using Python & SQL  
+- Practicing **data ingestion → transformation → storage** workflows  
+- Writing optimized SQL for analytics-ready datasets  
+- Designing **normalized and denormalized schemas**  
+- Performing **data validation and quality checks**  
+- Creating **analytics-ready tables** for BI tools  
+
+---
+
+## 📌 Roles I’m Actively Seeking
+
+- **Data Engineer (Fresher / Entry-Level)**  
+- **Data Engineering Trainee / Intern**  
+- **Junior Data Engineer**  
+
+---
+
+## 📫 Contact & Profiles
+
+- **GitHub**: https://github.com/Git-Enthusiast  
+- **Email**: rajanraj.cse@gmail.com  
+- **LeetCode**: https://leetcode.com/u/Rajan_cse/  
+
+---
