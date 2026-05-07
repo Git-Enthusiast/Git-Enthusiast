@@ -1,116 +1,138 @@
-# Rajan Raj | Aspiring Data Engineer | Python • SQL • ETL • DSA (Java)
+# Rajan Raj | Python Backend Developer | Data Engineering
 
 ## 👋 About Me
-I am an **aspiring Data Engineer** with a Computer Science background, currently focused on **designing, building, and understanding data pipelines and data platforms**.
 
-My learning journey is centered on **ETL/ELT workflows, data ingestion, transformation, storage, and analytics-ready datasets**, supported by **strong problem-solving skills through DSA in Java**.
+I am a Computer Science and Engineering graduate currently focused on **Python Backend Development**, with growing interest and hands-on learning in **Data Engineering**.
 
-I am actively preparing for **entry-level Data Engineering roles** and looking for opportunities where I can work with **real-world data systems, large datasets, and scalable architectures**.
+My primary focus is on building backend systems using **Python, APIs, databases, and scalable application development practices**. Alongside backend development, I am expanding my skills in **data pipelines, ETL workflows, PySpark, SQL optimization, and analytics systems** to understand how modern data-driven applications operate at scale.
 
----
+I also actively practice **Data Structures and Algorithms in Java** to strengthen problem-solving, logical thinking, and software engineering fundamentals.
 
-## 🎯 Career Objective (Data Engineering Focus)
-To secure an **entry-level Data Engineer / Data Engineering Trainee role** where I can apply and grow skills in **Python, SQL, data pipelines, ETL tools, databases, and cloud-based data systems**, while contributing to reliable and scalable data solutions.
+Currently, I am looking for opportunities where I can contribute to real-world backend systems, work with scalable architectures, and continue growing toward backend engineering and data engineering roles.
 
 ---
 
-## 🧠 Core Data Engineering Competencies
+# 🎯 Career Objective
 
-- Data Engineering Fundamentals  
-- ETL / ELT Pipelines  
-- Data Ingestion & Data Extraction  
-- Batch Data Processing  
-- Data Transformation & Validation  
-- Data Warehousing Concepts  
-- SQL Optimization & Query Design  
-- Data Modeling (Star Schema, Snowflake Schema)  
-- Structured & Semi-Structured Data  
-- Data Quality & Data Consistency  
-- Pipeline Monitoring & Logging  
-- Data Analytics Enablement  
+To secure an entry-level role as a **Python Backend Developer** or **Backend Engineer**, while gradually building expertise in **Data Engineering and scalable data systems**.
+
+I aim to work on backend applications, APIs, databases, automation systems, and data-driven architectures that solve real-world problems efficiently and reliably.
 
 ---
 
-## 🛠️ Technical Skills
+# 🧠 Core Competencies
 
-### Programming & Query Languages
-- **Python** – Data processing, ETL scripting, automation  
-- **SQL** – Complex queries, joins, aggregations, window functions  
-- **Java** – DSA, algorithmic problem solving (backend readiness)
-
----
-
-### Data Engineering Stack (Learning & Hands-On)
-- **ETL Development**: Python-based ETL scripts  
-- **Data Processing**: Pandas, NumPy  
-- **Databases**: MySQL, PostgreSQL (conceptual + hands-on)  
-- **Data Warehousing**: OLTP vs OLAP concepts  
-- **File Formats**: CSV, JSON, Parquet (conceptual understanding)  
-- **Data Modeling**: Normalization, fact & dimension tables  
+* Backend Development Fundamentals
+* REST API Development
+* Database Design & Query Optimization
+* Python Automation & Scripting
+* SQL & Data Processing
+* ETL / ELT Concepts
+* Data Transformation & Validation
+* Scalable Application Architecture (Learning)
+* Data Pipelines & Analytics Workflows
+* Problem Solving & DSA
 
 ---
 
-### Big Data & Distributed Systems (Foundational Learning)
-- Apache Spark (concepts: RDD, DataFrame, transformations, actions)  
-- Batch vs Stream Processing  
-- Data partitioning & parallelism (conceptual)
+# 🛠️ Technical Skills
+
+## Programming Languages
+
+* **Python** – Backend development, scripting, automation
+* **SQL** – Query writing, joins, aggregations, optimization
+* **Java** – DSA and problem-solving
 
 ---
 
-### Orchestration & Workflow Management (Learning)
-- ETL workflow structuring  
-- DAG-based pipeline concepts (Airflow fundamentals)  
-- Scheduling, retries, and failure handling (conceptual)
+## Backend Development
+
+* REST APIs
+* CRUD Applications
+* Authentication & Routing Concepts
+* Backend Architecture Fundamentals
+* API Testing & Debugging
+* JSON & Data Handling
 
 ---
 
-### Cloud & Modern Data Stack (Conceptual Readiness)
-- Cloud data architecture fundamentals  
-- Data lakes vs data warehouses  
-- Basics of AWS / GCP data services (high-level understanding)
+## Databases
+
+* MySQL
+* PostgreSQL (Learning & Hands-On)
+* Database Design Fundamentals
+* Normalization & Relationships
 
 ---
 
-### DSA & Problem Solving (Strong Foundation)
-- Arrays, Strings, Linked Lists  
-- Stacks, Queues, HashMaps  
-- Trees, Graphs  
-- Recursion & Dynamic Programming  
-- LeetCode practice using **Java** (100+ problems)
+## Data Engineering (Transitioning & Learning)
+
+* Python-based ETL workflows
+* Pandas & NumPy
+* PySpark Fundamentals
+* Data Cleaning & Transformation
+* Batch Processing Concepts
+* Data Warehousing Basics
+* Structured & Semi-Structured Data
 
 ---
 
-### Tools & Development Environment
-- Git & GitHub (version control)  
-- Jupyter Notebook  
-- VS Code  
-- IntelliJ IDEA  
+## Big Data & Data Systems (Foundational Learning)
+
+* Apache Spark Basics
+* DataFrames & Transformations
+* Batch vs Stream Processing
+* Distributed Data Processing Concepts
 
 ---
 
-## 📚 Practical Learning & Implementation
+## Tools & Development Environment
 
-- Building **end-to-end ETL pipelines** using Python & SQL  
-- Practicing **data ingestion → transformation → storage** workflows  
-- Writing optimized SQL for analytics-ready datasets  
-- Designing **normalized and denormalized schemas**  
-- Performing **data validation and quality checks**  
-- Creating **analytics-ready tables** for BI tools  
-
----
-
-## 📌 Roles I’m Actively Seeking
-
-- **Data Engineer (Fresher / Entry-Level)**  
-- **Data Engineering Trainee / Intern**  
-- **Junior Data Engineer**  
+* Git & GitHub
+* VS Code
+* Jupyter Notebook
+* IntelliJ IDEA
+* Postman
 
 ---
 
-## 📫 Contact & Profiles
+# 📚 Current Learning Focus
 
-- **GitHub**: https://github.com/Git-Enthusiast  
-- **Email**: rajanraj.cse@gmail.com  
-- **LeetCode**: https://leetcode.com/u/Rajan_cse/  
+* Building scalable backend applications using Python
+* Developing and testing REST APIs
+* Writing optimized SQL queries
+* Learning backend architecture & system design basics
+* Creating ETL workflows using Python
+* Exploring PySpark and distributed data processing
+* Strengthening DSA & problem-solving skills through LeetCode
 
 ---
+
+# 💻 Areas of Interest
+
+* Python Backend Development
+* APIs & Scalable Systems
+* Data Engineering
+* Data Processing Pipelines
+* Backend Architecture
+* Distributed Systems
+* Problem Solving & System Design
+
+---
+
+# 📌 Roles I’m Interested In
+
+* Python Backend Developer
+* Backend Engineer (Fresher / Entry-Level)
+* Software Engineer Intern
+* Data Engineering Intern
+* Junior Data Engineer
+
+---
+
+# 📫 Contact & Profiles
+
+* GitHub: https://github.com/Git-Enthusiast
+* LinkedIn: https://www.linkedin.com/in/rajanraj_dev
+* Email: [rajanraj.cse@gmail.com](mailto:rajanraj.cse@gmail.com)
+* LeetCode: https://leetcode.com/u/Rajan_cse/
